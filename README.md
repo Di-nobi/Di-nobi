@@ -17,7 +17,7 @@
 <li>Bash</li>
 <li>HTML/CSS</li></ul></td>
 </table>
-## My Github Stats:
+<h1>My Github Stats:</h1>
 
 <table>
   <tr>
