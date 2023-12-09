@@ -6,6 +6,6 @@
 </head>
 <body>
 <img src="images/icon.gif" width="600" height="250" style="max-width:50%;"/>
-<h3>Hi, I'm Stanley and I'm a Backend Software Engineer, you're welcome to my space</h3>
+<h3>Hi👋, I'm Stanley and I'm a Backend Software Engineer💻. You're welcome to my space</h3>
 </body>
 </html>
