@@ -37,5 +37,13 @@
 
 <p align="right"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><img src="https://komarev.com/ghpvc/?username=Di-nobi&label=Profile%20views&color=0e75b6&style=flat" alt="aysuarex" /> </p>
 
-
+<div align="center"><h3><b>Social Handles:</b></h3></div>
+  <div align="center" id="badges">
+    <a href="https://www.linkedin.com/in/dinobi">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://twitter.com/dinobi_dev">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+  </div>
 </html>
