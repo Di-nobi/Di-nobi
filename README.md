@@ -15,6 +15,9 @@
 <li>Flask</li>
 <li>Node.js</li>
 <li>Bash</li>
-<li>HTML/CSS</li></ul></td></table>
+<li>HTML/CSS</li></ul></td>
+<tr><b><i>SOCIAL MEDIA HANDLES</i></b></tr>
+<td>Twitter --> <a href="https://www.twitter.com">twitter.com</a></td>
+</table>
 </body>
 </html>
