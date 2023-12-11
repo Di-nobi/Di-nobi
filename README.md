@@ -35,7 +35,7 @@
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aysuarex&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true) -->
 
-<p align="right"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><img src="https://komarev.com/ghpvc/?username=Di-nobi&label=Profile%20views&color=0e75b6&style=flat" alt="aysuarex" /> </p>
+<p align="right"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><img src="https://komarev.com/ghpvc/?username=Di-nobi&label=Profile%20views&color=0e75b6&style=flat" alt="Dinobi" /> </p>
 
 <div align="center"><h3><b>Social Handles:</b></h3></div>
   <div align="center" id="badges">
