@@ -14,6 +14,7 @@
 <li>MongoDB</li>
 <li>Flask</li>
 <li>Node.js</li>
+<li>Express.js</li>
 <li>Bash</li>
 <li>HTML/CSS</li></ul></td>
 </table>
