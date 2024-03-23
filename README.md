@@ -11,7 +11,9 @@
 <ul><li>Python</li>
 <li>JavaScript</li>
 <li>MySQL</li>
+<li>Postgres</li>
 <li>MongoDB</li>
+<li>Django</li>
 <li>Flask</li>
 <li>Node.js</li>
 <li>Express.js</li>
