@@ -10,10 +10,12 @@
 <table><tr><b><i>SKILLS</i></b></tr><td>
 <ul><li>Python</li>
 <li>JavaScript</li>
+<li>Rust</li>
 <li>MySQL</li>
 <li>Postgres</li>
 <li>MongoDB</li>
 <li>Django</li>
+<li>FastAPI</li>
 <li>Flask</li>
 <li>Node.js</li>
 <li>Express.js</li>
