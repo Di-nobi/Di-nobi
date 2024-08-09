@@ -6,11 +6,11 @@
 </head>
 <body>
 <img src="images/icon.gif" width="600" height="250" style="max-width:50%;"/>
-<h3>**return** f'Hi👋, I'm Stanley and I am a Backend Software Engineer💻. You're welcome to my space'</h3>
+<h3>return f'Hi👋, I'm Stanley and I am a Backend Software Engineer💻. You're welcome to my space'</h3>
 <table><tr><b><i>SKILLS</i></b></tr><td>
 <ul><li>Python</li>
 <li>JavaScript</li>
-<li>Rust</li>
+<li>AWS Cloud</li>
 <li>MySQL</li>
 <li>Postgres</li>
 <li>MongoDB</li>
