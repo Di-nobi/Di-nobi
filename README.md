@@ -16,7 +16,7 @@
 ### 🚀 About Me
 I'm a passionate Backend Software Engineer with a knack for building robust and scalable systems. I love diving into cloud technologies, crafting APIs, and optimizing databases. Welcome to my GitHub space, where I share my projects and experiments!
 
-- 🌱 **Currently learning**: Advanced AWS architectures and TypeScript
+- 🌱 **Currently learning**: Advanced AWS architectures
 - 💼 **Open to**: Collaborations, open-source contributions, and exciting backend projects
 - 📫 **Reach me**: [LinkedIn](https://www.linkedin.com/in/dinobi) | [Twitter](https://twitter.com/dinobi_dev)
 - ⚡ **Fun fact**: I can debug code faster than I can brew coffee ☕
