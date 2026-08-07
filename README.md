@@ -89,7 +89,7 @@ Backend architecture and core systems for a ride-hailing platform, built and mai
 
 ---
 
-### 📦 Dinorex — API Documentation & Testing CLI
+### 📦 [Dinorex](https://github.com/Di-nobi/dinorex) — API Documentation & Testing CLI
 A developer tool (in the spirit of Postman, but terminal-native) that lets developers document and test API endpoints instantly from the command line with a few commands — no separate GUI app required.
 
 - Built the core service and CLI logic in **FastAPI/Python**, distributed as a **pip package**
