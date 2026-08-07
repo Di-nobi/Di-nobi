@@ -76,7 +76,7 @@ I care about systems that are simple to reason about, easy to operate, and built
 
 ## Featured Projects
 
-### 🚕 RydePro — Ride-Hailing Platform *(Private / Proprietary)*
+### 🚕 [RYDEPRO](https://rydepro.com) — Ride-Hailing Platform *(Private / Proprietary)*
 Backend architecture and core systems for a ride-hailing platform, built and maintained over 3 years as the backend engineer.
 
 - Designed and owned the **backend architecture** end-to-end, including service structure, background job processing, and data layer design
