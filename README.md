@@ -100,9 +100,11 @@ A developer tool (in the spirit of Postman, but terminal-native) that lets devel
 
 ---
 
-https://rydepro.com/
+[https://rydepro.com](https://rydepro.com)
 
 [https://github.com/Di-nobi/Dinorex](https://github.com/Di-nobi/dinorex)
+
+[https://github.com/Di-nobi/dinorex-py](https://github.com/Di-nobi/dinorex-py)
 
 ---
 
