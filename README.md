@@ -1,5 +1,5 @@
 <h1 align="center">Stanley Di-nobi</h1>
-<h3 align="center">Senior Backend Software Engineer · Cloud & DevOps · Distributed Systems</h3>
+<h3 align="center">Backend Software Engineer · Cloud & DevOps · Distributed Systems</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Di-nobi&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
